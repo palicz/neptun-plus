@@ -1,12 +1,12 @@
-    // ==UserScript==
-    // @name         Neptun Plus
-    // @namespace    http://example.org
-    // @version      1.0
-    // @description  Ez a script átalakítja a Neptun felületét, hogy könnyebben használható és átláthatóbb legyen. 
-    // @author       zenzty
-    // @match        https://www-h-ng.neptun.unideb.hu/hallgato_ng/*
-    // @grant        none
-    // ==/UserScript==
+// ==UserScript==
+// @name         Neptun Plus
+// @namespace    http://example.org
+// @version      1.0
+// @description  Ez a script átalakítja a Neptun felületét, hogy könnyebben használható és átláthatóbb legyen. 
+// @author       zenzty
+// @match        https://www-h-ng.neptun.unideb.hu/hallgato_ng/*
+// @grant        none
+// ==/UserScript==
 
 (function() {
         'use strict';
